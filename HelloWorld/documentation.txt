@@ -1,0 +1,2 @@
+This programme write the screen Hello World
+1 function : System.out.println
